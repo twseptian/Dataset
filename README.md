@@ -52,8 +52,6 @@ https://malwr.com/
 
 https://objective-see.com/malware.html
 
-http://ytisf.github.io/theZoo/
-
 http://www.virusign.com/
 
 https://beta.virusbay.io/
